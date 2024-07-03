@@ -1,0 +1,6 @@
+{
+    "presets": [
+[>77;30700;0c]10;rgb:bfbf/bfbf/bfbf]11;rgb:0000/0000/0000      "@babel/preset-react",
+      "@babel/preset-env"
+    ]
+}
